@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Felipe</h1>
-<h3 align="center">Un apasionado desarrollador web y movil de Chile</h3>
+<h3 align="center">Un apasionado desarrollador web y móvil de Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-ortiz-developer&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-ortiz-developer" /> </p>
 
