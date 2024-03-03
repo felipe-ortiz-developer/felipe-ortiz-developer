@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipe-ortiz-developer&row=1" alt="felipe-ortiz-developer" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando con tecnologias web como **Angular, Laravel/Livewire, Wordpress, Vue.js y Android**
+- 🔭 Actualmente estoy trabajando con tecnologias como **AWS, Angular, Laravel/Livewire, Vue.js y Android**
 - 🌱 Actualmente estoy aprendiendo **Android Kotlin, .NET C#**
 
 <h3 align="left">Connect with me:</h3>
